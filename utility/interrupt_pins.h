@@ -413,7 +413,7 @@
   #define CORE_INT23_PIN	23
   #define CORE_INT24_PIN	24
   #define CORE_INT25_PIN	25
-S#endif
+#endif
 #endif
 
 #if !defined(CORE_NUM_INTERRUPT)
